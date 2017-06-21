@@ -1,3 +1,4 @@
+;zdevelopowane poza godzinami czasu pracy, chociaz na komputerze sluzbowym
 #m::
 Send, Witaj z gitthuba
 return
