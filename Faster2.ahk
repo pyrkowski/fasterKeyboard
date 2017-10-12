@@ -38,10 +38,10 @@ Send c:/repo/finevare/
 
 return
 
-#j:: Send http://10.106.156.21:8224/
+#j:: Send h
 return
 
-;#c:: Send http://10.106.156.21:8225/
+;#c:: Send h
 return
 
 #c:: 
@@ -56,7 +56,7 @@ return
 
 
 
-#b:: Send http://10.106.156.22:8223/
+#b:: Send h
 return
 
 
@@ -105,12 +105,12 @@ SendInput {Space}%CurrentDateTime%{Space}
 return
 
 
-;run, https://10.106.5.31:7450/fv   ;zrobione w domu
+;run, h  ;zrobione w domu
 ;run, d.rw.pyrkow.pl
 ;Sleep 5000
 Send apyrkowski  ;zrobione w domu
 Send {tab}  ;zrobione w domu
-Send 1qaz@WSX3edc   ;zrobione w domu
+Send 1  ;zrobione w domu
 Send {tab}  ;zrobione w domu
 Sleep 30
 Send {enter}  ;zrobione w domu
